@@ -1,7 +1,7 @@
-# COVIDvsRoute
-Comparaison entre les morts des accidents de la route et les décès covid entre Avril 2022 et Avril 2023.
+# COVID vs. Route
+**Comparaison entre les morts des accidents de la route et les décès covid entre Avril 2022 et Avril 2023.**
 
-Script R et données csv qui permettent de compiler le graphique suivant :
+Script R et données csv qui permettent de produire le graphique suivant :
 
 [!graphique](.png)
 
