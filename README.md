@@ -13,4 +13,4 @@ Collaboration sur une idée de [Winslow Santé Publique](https://winslow.fr/).
 
 Source des données : 
 - CepiDC (Inserm/SPF) [pour le COVID](https://www.cepidc.inserm.fr/)
-- ONISR (Observatoire national interministériel de la sécurité routière) pour les [morts sur la route](https://www.onisr.securite-routiere.gouv.fr/outils-statistiques/recueil-de-donnees-annuelles)
+- ONISR (Observatoire national interministériel de la sécurité routière) pour les [morts sur la route](https://www.onisr.securite-routiere.gouv.fr/outils-statistiques/recueil-de-donnees-annuelles) (⚠️ les données des accidents sont très descriptives)
