@@ -5,7 +5,7 @@ Script R et données csv qui permettent de produire le graphique suivant :
 
 ![graphique](COVIDvsRoute.png)
 
-Ce graphe n'est pas là pour banaliser les accidents de la route ou pour dire que leurs morts sont moins importantes. Mais pour mettre en perspective un manque de moyens et de volonté politique dans la prévention contre les maladies aéroportées et les morts qui en découlent. Et pour réaffirmer le caractère léthal du SRAS-CoV2 et honorer aussi ces morts. 
+Ce graphe n'est pas là pour banaliser les accidents de la route ou pour dire que leurs morts sont moins importantes. Mais pour mettre en perspective un manque de moyens et de volonté politique dans la prévention contre les maladies aéroportées et les morts qui en découlent. Et pour réaffirmer le caractère moretl du SRAS-CoV2, même en 2022-2023 et honorer aussi ces morts. 
 
 Oui, le COVID existe encore, il tue et handicape toujours (Covid long).
 
