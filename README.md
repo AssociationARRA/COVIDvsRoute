@@ -9,7 +9,7 @@ Ce graphe n'est pas là pour banaliser les accidents de la route ou pour dire qu
 
 Oui, le COVID existe encore, il tue et handicape toujours (Covid long).
 
-Collaboration et idée de [Winslow Santé Publique](https://winslow.fr/).
+Collaboration sur une idée de [Winslow Santé Publique](https://winslow.fr/).
 
 Source des données : 
 - CepiDC (Inserm/SPF) [pour le COVID](https://www.cepidc.inserm.fr/)
