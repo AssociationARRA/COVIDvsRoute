@@ -1,2 +1,16 @@
 # COVIDvsRoute
-Comparaison entre les morts des accidents de la route et les décès covid.
+Comparaison entre les morts des accidents de la route et les décès covid entre Avril 2022 et Avril 2023.
+
+Script R et données csv qui permettent de compiler le graphique suivant :
+
+[!graphique](.png)
+
+Ce graphe n'est pas là pour banaliser les accidents de la route ou pour dire que leurs morts sont moins importantes. Mais pour mettre en perspective un manque de moyen et de volonté politique dans la prévention contre les maladies aéroportées et les morts qui en découlent. Et pour réaffirmer le caractère léthal du SRAS-CoV2 et honorer aussi ces morts. 
+
+Oui, le COVID existe encore, il tue et handicape toujours (Covid long).
+
+Collaboration et idée de [Winslow Santé Publique](https://winslow.fr/).
+
+Source des données : 
+- CepiDC (Santé Publique France) pour le COVID
+- ONISR (Observatoire national interministériel de la sécurité routière) pour les [morts sur la route](https://www.onisr.securite-routiere.gouv.fr/outils-statistiques/recueil-de-donnees-annuelles)
