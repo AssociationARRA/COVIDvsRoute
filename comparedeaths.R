@@ -18,10 +18,10 @@ plot(dt)
 
 
 # data route
-route1=read.csv("./mortalité routière/Morts_route_2023janv-mars.csv", sep=";")
+route1=read.csv("Morts_route_2023janv-mars.csv", sep=";")
 summary(route1)
 
-route2=read.csv("./mortalité routière/Morts_route_2022avri-dec.csv", sep=";")
+route2=read.csv("Morts_route_2022avri-dec.csv", sep=";")
 summary(route2)
 
 # take only what interests me
