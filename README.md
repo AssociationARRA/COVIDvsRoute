@@ -3,14 +3,14 @@
 
 Script R et données csv qui permettent de produire le graphique suivant :
 
-[!graphique](.png)
+![graphique](COVIDvsRoute.png)
 
-Ce graphe n'est pas là pour banaliser les accidents de la route ou pour dire que leurs morts sont moins importantes. Mais pour mettre en perspective un manque de moyen et de volonté politique dans la prévention contre les maladies aéroportées et les morts qui en découlent. Et pour réaffirmer le caractère léthal du SRAS-CoV2 et honorer aussi ces morts. 
+Ce graphe n'est pas là pour banaliser les accidents de la route ou pour dire que leurs morts sont moins importantes. Mais pour mettre en perspective un manque de moyens et de volonté politique dans la prévention contre les maladies aéroportées et les morts qui en découlent. Et pour réaffirmer le caractère léthal du SRAS-CoV2 et honorer aussi ces morts. 
 
 Oui, le COVID existe encore, il tue et handicape toujours (Covid long).
 
 Collaboration et idée de [Winslow Santé Publique](https://winslow.fr/).
 
 Source des données : 
-- CepiDC (Santé Publique France) pour le COVID
+- CepiDC (Inserm/SPF) [pour le COVID](https://www.cepidc.inserm.fr/)
 - ONISR (Observatoire national interministériel de la sécurité routière) pour les [morts sur la route](https://www.onisr.securite-routiere.gouv.fr/outils-statistiques/recueil-de-donnees-annuelles)
